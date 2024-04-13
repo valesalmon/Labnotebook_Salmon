@@ -17,7 +17,8 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 - EmeraldAmp GT PCR Master Mix is a loading-dye-added version of EmeraldAmp MAX PCR Master Mix that is optimized for great performance and convenience in both standard and high-throughput PCR applications.
 - Loading Dye [NEB 6X Purple Loading Dye NEB Cat # B7024S]()        
 - Gel Stain [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
-- DNA Ladder [1kb Gel ladder](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/NEB_1kb_Ladder_N3232S.png?raw=true) 
+- DNA Ladder [1kb Gel ladder](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/NEB_1kb_Ladder_N3232S.png?raw=true)
+- KapaPure Beads Fisher 50-196-5220 [Roche Diagnostics 07983280001](https://www.fishersci.com/shop/products/kapa-pure-beads-4/501965220) 
 
  
 
