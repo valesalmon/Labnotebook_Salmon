@@ -49,27 +49,39 @@ For each of 3 tubes of Proteinase K with Storage Buffer (Zymo D3001-2-20) I adde
 
 The samples were extracted according to the manufacturer’s instructions for the Quick DNA 96 Kit for samples stored in DNA/RNA Shield including the addition of 15µl of Proteinase K (20mg ml-1). 
 
-- Next 4 volumes of Zymo Kit Genomic Lysis BUffer was added for each volume of the sample digestion (e.g., add 1200µl of Genomic Lysis Buffer to 300µl of sample digestion). Samples were mixed via pipetting and the mixutres were incubated for 5 minutes at room temperature. 
 
-### MASSIVE PROBLEM HERE IN ZYMO KIT INSTRUCTIONS FOR THE KIT INSTRUCTIONS PROVIDED. THERE IS ONLY 100ML OF GENOMIC LYSIS BUFFER PROVIDED, BUT THE KIT INSTRUCTIONS DO NOT TELL YOU TO ORDER MORE PRIOR TO STARTIGN THE KIT. THEREFORE WE WERE LEFT WITH NO GENOMIC LYSIS BUFFER FOR COLUMNS 11 AND 12 OF PLATE 001. 
+Zymo Kit Genomic Lysis Buffer was prepared according to [Instructions Page 4](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf). 500µl of beta-mercaptoethanol was added to the 100ml bottle of Genomic Lysis Buffer. 
+
+
+- Next 4 volumes of Zymo Kit Genomic Lysis Buffer was added for each volume of the sample digestion (e.g., add 1200µl of Genomic Lysis Buffer to 300µl of sample digestion). Samples were mixed via pipetting and the mixutres were incubated for 5 minutes at room temperature. 
+
+### MASSIVE PROBLEM HERE IN ZYMO INSTRUCTIONS FOR THE KIT INSTRUCTIONS PROVIDED. THERE IS ONLY 100ML OF GENOMIC LYSIS BUFFER PROVIDED, BUT THE KIT INSTRUCTIONS DO NOT TELL YOU TO ORDER MORE PRIOR TO STARTING THE KIT. THEREFORE WE WERE LEFT WITH NO GENOMIC LYSIS BUFFER FOR COLUMNS 11 AND 12 OF PLATE 001. THEREFORE WE MOVED FORWARD WITH EXTRACTIONS OF 80 SAMPLES FROM PLATE 001 COLUMNS 1-10 ALL ROWS. COLUMNS 11 AND 12 WERE MOVED TO NEW INDIVIDUALLY LABELLED TUBES AND STORED IN THE -20°C FREEZER.
 
 ![Page 10 of kit protocol](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
-4 additions of 400µl of mix
-spin speeds 1000, 1000, 2500, 2500 rcf
 
-Samples were eluted in 60µl of kit Elution Buffer warmed to 70°C. DNA extractions were completed on 11 April 2024 and DNA stored at -20°C
+Each well of the Silicon-A plate set on the collection plate can hold 600µl, but this brings the liquid too close to the top and increases chances of carry over to other wells. Becasue of this, I added the sample in 4 steps: 
+1) 400µl and then 5 minute spin at 1000 rcf
+1) 400µl and then 5 minute spin at 1000 rcf
+1) 400µl and then 5 minute spin at 2500 rcf
+1) 400µl and then 5 minute spin at 2500 rcf
+
+The waste was removed from the collection plate after each centrifugation step. 
+
+- Next 200µl of DNA Pre-wash buffer was added to each well and then the plate was spun for 5 minute at 2500 rcf
+
+- Next 300µl of g-DNA wash buffer was added to each well and then the plate was spun for 5 minute at 2500 rcf
+
+- DNA was then eluted in 60µl of kit Elution Buffer warmed to 70°C. DNA extractions were completed on 11 April 2024 and DNA stored at -20°C in the elution plate covered with a foil seal.
 
 #### Samples
 
-Sample ID | Project | Collection Date |  
----|---|---|
-NEB 1kb DNA Ladder| NEB XXXX| NA|
+![Pocillopora gDNA extraction Samples: Plate 001](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_POC_COTS_gDNA_Plate001.png?raw=true)
 
 
 
 # 12 April 2024
 # Quantification of gDNA   
-nanodrop
+Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. 
 
 Sample ID | Plate | Well |Project | Collection Date |  
 ---|---|---| ---|---|
@@ -108,6 +120,10 @@ Total volume 		|	25		|	----
 
 24µl added to each of 82 wells. The total master mix was not enough and 2 more wells needed to be generated individually (H8 and H9). Next time add more for pipette loss.
 
+![Pocillopora mtORF amplification samples: Plate 001](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_POC_COTS_mtORF_PCR_Plate001.png?raw=true)
+
+
+
 ## Thermal Cycling Conditions 
 - [94°C 60 secondes] 1 cycle
 - [94°C 30 sec,53°C 30 sec, 72°C 75 sec] 30 cycles
@@ -117,14 +133,15 @@ Total volume 		|	25		|	----
 ## PCR Gel protocol
 DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (2.25g agarose in 150ml of 1X TAE, Tris base, acetic acid and EDTA) run at for 40 mins at 66 V and stained with Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 
 
-### Gel Samples
 ### Gel Results
    
 ![Pocillopora mtORF PCR and Pocillopora gDNA 4/12/24](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_mtORF_gDNA_gel_Pocillopora.png?raw=true)
 
 [Pocillopora mtORF PCR and Pocillopora gDNA Gel results 4/12/24](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_mtORF_gDNA_gel_Pocillopora.png?raw=true)
 
-Bands of ~1000 bp are present in all samples except the negative control
+Bands of ~1000 bp are present in all samples except the negative control for the mtORF amplicons.
+
+Bands of HMW were present for all of the gDNA. 
 
 
 
