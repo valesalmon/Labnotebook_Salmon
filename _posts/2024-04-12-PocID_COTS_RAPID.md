@@ -53,7 +53,7 @@ The samples were extracted according to the manufacturer’s instructions for th
 
 ### MASSIVE PROBLEM HERE IN ZYMO KIT INSTRUCTIONS FOR THE KIT INSTRUCTIONS PROVIDED. THERE IS ONLY 100ML OF GENOMIC LYSIS BUFFER PROVIDED, BUT THE KIT INSTRUCTIONS DO NOT TELL YOU TO ORDER MORE PRIOR TO STARTIGN THE KIT. THEREFORE WE WERE LEFT WITH NO GENOMIC LYSIS BUFFER FOR COLUMNS 11 AND 12 OF PLATE 001. 
 
-[Page 10 of kit protocol](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
+![Page 10 of kit protocol](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
 4 additions of 400µl of mix
 spin speeds 1000, 1000, 2500, 2500 rcf
 
