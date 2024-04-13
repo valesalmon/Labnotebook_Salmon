@@ -27,9 +27,17 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 
 DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
 
-First 200µl of DNA/RNA Shield (Zymo Research Cat # R1100-250) containing the lysed sample was moved to a new microfuge tube and mixed with 200µl of new DNA/RNA Shield. The samples were extracted according to the manufacturer’s instructions for samples stored in DNA/RNA Shield including the addition of 20µl of Proteinase K (20mg ml-1). Samples were eluted in 50µl of kit Elution Buffer warmed to 65°C and DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (Tris base, acetic acid and EDTA) run at for 45 mins at 100 V and stained with Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 
+First 150µl of new DNA/RNA Shield was added to a 96 well plate
+ProtK added
+150µl of sample added to each well
 
-DNA extractions were completed on 11 April 2024 and DNA stored at -20°C
+The samples were extracted according to the manufacturer’s instructions for samples stored in DNA/RNA Shield including the addition of 15µl of Proteinase K (20mg ml-1). 
+
+Page 10 of kit protocol
+4 additions of 400µl of mix
+spin speeds 1000, 1000, 2500, 2500 rcf
+
+Samples were eluted in 60µl of kit Elution Buffer warmed to 70°C. DNA extractions were completed on 11 April 2024 and DNA stored at -20°C
 
 #### Samples
 
@@ -43,6 +51,16 @@ NEB 1kb DNA Ladder| NEB XXXX| NA|
 # Quantification of gDNA   
 nanodrop
 
+Sample ID | Plate | Well |Project | Collection Date |  
+---|---|---| ---|---|
+POC-466 | Plate 001 | A1 |POC HISTOLOGY | Sept 2022 |  
+POC-478 | Plate 001 | B1 |POC HISTOLOGY | Sept 2022 |  
+FLOW-005 | Plate 001 | C1 |FLOW SKELETON | Sept 2022 |  
+FLOW-020 | Plate 001 | D1 |FLOW SKELETON | Sept 2022 |
+FLOW-033 | Plate 001 | E1 |FLOW SKELETON | Sept 2022 |  
+TPC REC-001 | Plate 001 | F1 |TPC COTS RAPID | Sept 2022 |  
+TPC REC-013 | Plate 001 | G1 |TPC COTS RAPID | Sept 2022 |  
+TPC REC-025 | Plate 001 | H1 |TPC COTS RAPID | Sept 2022 |  
 
 
 # PCR
@@ -77,8 +95,7 @@ Total volume 		|	25		|	----
 - [4°C infinity]
 
 ## PCR Gel protocol
-prepared a 1.5% gel by mixing 150ml of 1xTAE + 2.25g Agarose, melted gel  in the microwave and let cool and added 5µl Gelgreen and let harden. Ran gel at 66V 100mA for 40 minutes in 1x TAE.
-
+DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (2.25g agarose in 150ml of 1X TAE, Tris base, acetic acid and EDTA) run at for 40 mins at 66 V and stained with Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 
 
 ### Gel Samples
 ### Gel Results
