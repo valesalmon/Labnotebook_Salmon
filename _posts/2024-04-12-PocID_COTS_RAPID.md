@@ -10,7 +10,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ## Equipment and Reagents
 
 - Sample Preservation and Lysis [Zymo Research DNA/RNA Shield R1100-250](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Zymo_r1100-250_dna_rna_shield.pdf)
-- DNA Extraction [Zymo Research Quick-DNA™ Miniprep Plus Kit D4069](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/d4068_d4069_quick-dna_miniprep_plus_kit.pdf)    
+- DNA Extraction [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf)    
 - Foward primer [FatP6.1 200µM Stock IDT)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
 - Reverse primer [RORF 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/RORF_IDT_Spec_328104853.pdf)         
 - Master Mix [EmeraldAmp GT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/TaKaRa_Emerald_RR320A_DS.pdf)
@@ -25,7 +25,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 # 11 April 2024
 # DNA Extraction  
 
-DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](x) 
+DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
 
 First 200µl of DNA/RNA Shield (Zymo Research Cat # R1100-250) containing the lysed sample was moved to a new microfuge tube and mixed with 200µl of new DNA/RNA Shield. The samples were extracted according to the manufacturer’s instructions for samples stored in DNA/RNA Shield including the addition of 20µl of Proteinase K (20mg ml-1). Samples were eluted in 50µl of kit Elution Buffer warmed to 65°C and DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (Tris base, acetic acid and EDTA) run at for 45 mins at 100 V and stained with Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 
 
@@ -83,7 +83,7 @@ prepared a 1.5% gel by mixing 150ml of 1xTAE + 2.25g Agarose, melted gel  in the
 ### Gel Samples
 ### Gel Results
    
-![Pocillopora mtORF PCR and Pocillopora gDNA 4/12/24](x)
+![Pocillopora mtORF PCR and Pocillopora gDNA 4/12/24](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_mtORF_gDNA_gel_Pocillopora.png?raw=true)
 
 Bands of ~1000 bp are present in all samples except the negative control
 
