@@ -27,7 +27,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 
 
 # 11 April 2024
-# DNA Extraction  
+## DNA Extraction  
 
 DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
 
@@ -55,7 +55,7 @@ Zymo Kit Genomic Lysis Buffer was prepared according to [Instructions Page 4](ht
 
 - Next 4 volumes of Zymo Kit Genomic Lysis Buffer was added for each volume of the sample digestion (e.g., add 1200µl of Genomic Lysis Buffer to 300µl of sample digestion). Samples were mixed via pipetting and the mixutres were incubated for 5 minutes at room temperature. 
 
-### MASSIVE PROBLEM HERE IN ZYMO INSTRUCTIONS FOR THE KIT INSTRUCTIONS PROVIDED. THERE IS ONLY 100ML OF GENOMIC LYSIS BUFFER PROVIDED, BUT THE KIT INSTRUCTIONS DO NOT TELL YOU TO ORDER MORE PRIOR TO STARTING THE KIT. THEREFORE WE WERE LEFT WITH NO GENOMIC LYSIS BUFFER FOR COLUMNS 11 AND 12 OF PLATE 001. THEREFORE WE MOVED FORWARD WITH EXTRACTIONS OF 80 SAMPLES FROM PLATE 001 COLUMNS 1-10 ALL ROWS. COLUMNS 11 AND 12 WERE MOVED TO NEW INDIVIDUALLY LABELLED TUBES AND STORED IN THE -20°C FREEZER.
+_MASSIVE PROBLEM HERE IN ZYMO INSTRUCTIONS FOR THE KIT INSTRUCTIONS PROVIDED. THERE IS ONLY 100ML OF GENOMIC LYSIS BUFFER PROVIDED, BUT THE KIT INSTRUCTIONS DO NOT TELL YOU TO ORDER MORE PRIOR TO STARTING THE KIT. THEREFORE WE WERE LEFT WITH NO GENOMIC LYSIS BUFFER FOR COLUMNS 11 AND 12 OF PLATE 001. THEREFORE WE MOVED FORWARD WITH EXTRACTIONS OF 80 SAMPLES FROM PLATE 001 COLUMNS 1-10 ALL ROWS. COLUMNS 11 AND 12 WERE MOVED TO NEW INDIVIDUALLY LABELLED TUBES AND STORED IN THE -20°C FREEZER._
 
 ![Page 10 of kit protocol](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
 
@@ -80,7 +80,7 @@ The waste was removed from the collection plate after each centrifugation step.
 
 
 # 12 April 2024
-# Quantification of gDNA   
+## Quantification of gDNA   
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. 
 
 Sample ID | Plate | Well |Project | Collection Date |  
@@ -95,8 +95,8 @@ TPC REC-013 | Plate 001 | G1 |TPC COTS RAPID | Sept 2022 |
 TPC REC-025 | Plate 001 | H1 |TPC COTS RAPID | Sept 2022 |  
 
 
-# PCR
-## Prepare Reagents
+## PCR
+### Prepare Reagents
 Primers - [Flot et al. 2008](https://www.sciencedirect.com/science/article/pii/S1631069107003812?via%3Dihub)   
 - Forward primer FatP6.1	(Added 50µl of stock 2mg/ml plus 950µl of Nuclease Free water and made 3 aliquots of ~320µl each and stored in reagent box at -20)   
 - FatP6.1 (5′-TTTGGGSATTCGTTTAGCAG-3′)    
@@ -106,8 +106,7 @@ Primers - [Flot et al. 2008](https://www.sciencedirect.com/science/article/pii/S
 - ```EmeraldAmp GT PCR Master Mix is a loading-dye-added version of EmeraldAmp MAX PCR Master Mix that is optimized for great performance and convenience in both standard and high-throughput PCR applications.```
 **EmeraldAmp GT PCR Master Mix was recieved warm on arrival and stored at -20°C**
 
-# EmeraldAmp GT PCR Master Mix (2x)
-## Master Mix: For 82 rxns +3 = 85 
+### Master Mix: For 82 rxns +3 = 85 
 
 Reagent | 1Rxn µl | 85 Rxn µl |  
 ---|---|---|
@@ -122,15 +121,13 @@ Total volume 		|	25		|	----
 
 ![Pocillopora mtORF amplification samples: Plate 001](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_POC_COTS_mtORF_PCR_Plate001.png?raw=true)
 
-
-
-## Thermal Cycling Conditions 
+### Thermal Cycling Conditions 
 - [94°C 60 secondes] 1 cycle
 - [94°C 30 sec,53°C 30 sec, 72°C 75 sec] 30 cycles
 - [72°C 5 minutes] 1 cycle
 - [4°C infinity]
 
-## PCR Gel protocol
+### PCR Gel protocol
 DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (2.25g agarose in 150ml of 1X TAE, Tris base, acetic acid and EDTA) run at for 40 mins at 66 V and stained with Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 
 
 ### Gel Results
@@ -142,6 +139,8 @@ DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (2.25g agarose in 150m
 Bands of ~1000 bp are present in all samples except the negative control for the mtORF amplicons.
 
 Bands of HMW were present for all of the gDNA. 
+
+Amplified samples were saved in PCR plate for cleanup for mtORF For primer Sanger sequencing in 4°C fridge by PCR bench.
 
 
 
