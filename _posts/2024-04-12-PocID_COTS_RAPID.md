@@ -10,7 +10,9 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ## Equipment and Reagents
 
 - Sample Preservation and Lysis [Zymo Research DNA/RNA Shield R1100-250](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Zymo_r1100-250_dna_rna_shield.pdf)
-- DNA Extraction [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf)    
+- DNA Extraction [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
+- Proteinase K [Zymo Proteinase K with Storage BufferZymo D3001-2-20]()
+- PK Digestion Buffer [zymo PK Digestion Buffer Zymo R1200-1-20]()   
 - Foward primer [FatP6.1 200µM Stock IDT)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
 - Reverse primer [RORF 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/RORF_IDT_Spec_328104853.pdf)         
 - Master Mix [EmeraldAmp GT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/TaKaRa_Emerald_RR320A_DS.pdf)
@@ -19,6 +21,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 - Gel Stain [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
 - DNA Ladder [1kb Gel ladder](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/NEB_1kb_Ladder_N3232S.png?raw=true)
 - KapaPure Beads Fisher 50-196-5220 [Roche Diagnostics 07983280001](https://www.fishersci.com/shop/products/kapa-pure-beads-4/501965220) 
+- Eppendorf Deepwell Plate 96/2000 µL plates [Eppendorf Cat # 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502)
 
  
 
@@ -28,13 +31,29 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 
 DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
 
-First 150µl of new DNA/RNA Shield was added to a 96 well plate
-ProtK added
-150µl of sample added to each well
+Used Page 10 [Proteinase K Digestino with DNA/RNA Shield](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
 
-The samples were extracted according to the manufacturer’s instructions for samples stored in DNA/RNA Shield including the addition of 15µl of Proteinase K (20mg ml-1). 
+Used [Eppendorf Deepwell Plate 96/2000 µL plates Catalog No. 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502) for reagent and sample mixing prior to adding to Zymo column plate
 
-Page 10 of kit protocol
+Need Proteinase K with Storage Buffer (Zymo D3001-2-20) and PK Digestion Buffer (Zymo R1200-1-20)
+
+For each of 3 tubes of Proteinase K with Storage Buffer (Zymo D3001-2-20) I added 1040µl of Proteinas K Storage Buffer to lyophilized Proteinase K 20mg tube and mixed by vortex.
+
+
+
+- First 150µl of new DNA/RNA Shield was added to each well in the Eppendorf 96 Deepwell plate
+
+- Next 30µl of PK Digestion buffer and 15µl of resusdended Proteinase K solution was added to each well.
+
+- Next 150µl of sample added to each well and samples were mixed with solution.
+
+The samples were extracted according to the manufacturer’s instructions for the Quick DNA 96 Kit for samples stored in DNA/RNA Shield including the addition of 15µl of Proteinase K (20mg ml-1). 
+
+- Next 4 volumes of Zymo Kit Genomic Lysis BUffer was added for each volume of the sample digestion (e.g., add 1200µl of Genomic Lysis Buffer to 300µl of sample digestion). Samples were mixed via pipetting and the mixutres were incubated for 5 minutes at room temperature. 
+
+### MASSIVE PROBLEM HERE IN ZYMO KIT INSTRUCTIONS FOR THE KIT INSTRUCTIONS PROVIDED. THERE IS ONLY 100ML OF GENOMIC LYSIS BUFFER PROVIDED, BUT THE KIT INSTRUCTIONS DO NOT TELL YOU TO ORDER MORE PRIOR TO STARTIGN THE KIT. THEREFORE WE WERE LEFT WITH NO GENOMIC LYSIS BUFFER FOR COLUMNS 11 AND 12 OF PLATE 001. 
+
+[Page 10 of kit protocol](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
 4 additions of 400µl of mix
 spin speeds 1000, 1000, 2500, 2500 rcf
 
