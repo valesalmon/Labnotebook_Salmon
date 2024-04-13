@@ -85,6 +85,8 @@ prepared a 1.5% gel by mixing 150ml of 1xTAE + 2.25g Agarose, melted gel  in the
    
 ![Pocillopora mtORF PCR and Pocillopora gDNA 4/12/24](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_mtORF_gDNA_gel_Pocillopora.png?raw=true)
 
+[Pocillopora mtORF PCR and Pocillopora gDNA Gel results 4/12/24](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240412_mtORF_gDNA_gel_Pocillopora.png?raw=true)
+
 Bands of ~1000 bp are present in all samples except the negative control
 
 
