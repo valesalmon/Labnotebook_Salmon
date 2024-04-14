@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poc ID via mtORF POC RAPID 
+title: Poc ID via mtORF POC RAPID Plate 001
 date: '2024-04-12'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
@@ -11,11 +11,11 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 
 - Sample Preservation and Lysis [Zymo Research DNA/RNA Shield R1100-250](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Zymo_r1100-250_dna_rna_shield.pdf)
 - DNA Extraction [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
-- Proteinase K [Zymo Proteinase K with Storage BufferZymo D3001-2-20]()
-- PK Digestion Buffer [zymo PK Digestion Buffer Zymo R1200-1-20]()   
-- Foward primer [FatP6.1 200µM Stock IDT)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
+- Proteinase K [Zymo Proteinase K with Storage BufferZymo D3001-2-20](https://www.zymoresearch.com/products/proteinase-k-w-storage-buffer-set)
+- PK Digestion Buffer [Zymo PK Digestion Buffer R1200-1-20](https://www.zymoresearch.com/products/pk-digestion-buffer)   
+- Foward primer [FatP6.1 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
 - Reverse primer [RORF 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/RORF_IDT_Spec_328104853.pdf)         
-- Master Mix [EmeraldAmp GT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/TaKaRa_Emerald_RR320A_DS.pdf)
+- Master Mix [EmeraldAmp GT PCR Master Mix RR320A](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/TaKaRa_Emerald_RR320A_DS.pdf)
 - EmeraldAmp GT PCR Master Mix is a loading-dye-added version of EmeraldAmp MAX PCR Master Mix that is optimized for great performance and convenience in both standard and high-throughput PCR applications.
 - Loading Dye [NEB 6X Purple Loading Dye NEB Cat # B7024S]()        
 - Gel Stain [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
@@ -142,6 +142,80 @@ Bands of HMW were present for all of the gDNA.
 
 Amplified samples were saved in PCR plate for cleanup for mtORF For primer Sanger sequencing in 4°C fridge by PCR bench.
 
+
+# 202404XX
+
+### PCR Cleanup
+
+
+1X Bead Cleanup (post PCR bench)
+
+**KAPAPure beads are light sensitive**
+
+_Take KAPA pure beads out of 4 degree fridge ~30 minutes before use to get to room temperature, and swirl to even out the beads (which settle on the bottom), and keep them in a drawer while warming out of the light_
+
+Make fresh 80% ethanol for each day. For example in 50mL conical add 40mL of 100% ethanol and 10ml of ultrapure water.
+
+Take the PCR plates out of either fridge or thermocyler and spin down in centrifuge at 2500 for 1 minute
+
+_You can either add beads 1 well at a time or by row using a multichannel and a liquid trough. If you have more than 16 samples, it saves time to use a trough._
+
+Take beads out of the drawer and swirl again. If using a trough, calculate how many beads you'll need: 100ul * n and pipette that volume of beads into the trough
+
+Add 20ul of beads to each well, slowly because the bead liquid is very viscus. Pipette up and down at least 10 times per sample to mix, pipette slowly to avoid bubbles forming. You have to completely mix gently here, your DNA is binding to the beads in this step.
+
+Repeat for all rows/samples, avoid bubbles because they can effect magnetic binding, tap down plate gently if some bubbles appear.
+
+Place your bead-sample plate to incubate on the rotating shaker for 15 minutes at 200 speed to facilitate DNA binding.
+
+After incubation, place the plate on the magnet plate (white plate with silver metal knobs), and place back on the shaker for ~5 minutes. Larger volumes can take longer for the beads to magnetize so shaking helps.
+
+Take plate back to bench. Set up a trough for "supernatant", a trough for EtOH, and for ultra pure water
+Pour some EtOH and water into their troughs but leave the supernatant one empty
+When the liquid in the wells has gone clear, carefully use the multichannel to pipette out the clear supernatant without disturbing the beads (set pipettes to ~175ul), it helps to slide the tips down the sides of the tubes without the beads. The clear sides alternates each row. 
+
+Remove supernatant from every well and discard supernatant in the waste labeled trough and change tips. 
+
+
+Add 200ul of 80% EtOH to each well carefully without disturbing the beads, again you can put the tips on the side of the wells without the beads
+Remove the clear supernatant from each well without disturbing the beads and discard into the supernatant trough, changing tips for each well.
+
+Repeat the 80% ethanol washes for a total of 3 times. 
+
+While the plate is on the magnet use the p20 multichannel pipette to suck up any remaining ethanol at the bottom of the wells of the plate 
+
+Wait ~2 minutes to let any residual ethanol to dry
+
+**Do not overdry the beads**
+
+
+Take plate off the magnet into a regular rack
+
+Set multichannel to 25ul and add 25ul of ultrapure nuclease-free water to each well of the plate. 
+
+Carefully add the water to the beads, you'll have to pipette up and down slowly as long as it takes to resuspend the beads off the side of the well. Alternate the tip position to get beads stuck on opposite sides of the wells. Avoid making bubbles and repeat for every well
+
+
+Place plate on the shaker at 200 rpm for 5 minutes
+
+Get another plate ready for the cleaned product
+
+Once done shaking, place the plate back on the magnet and wait until the wells become clear
+
+Remove the 25ul of clear supernatant from each well and into the new 96-well plate
+
+Seal the plate with a labeled foil seal and place in the fridge if preparing for sequencing in the next 24h, or freezer if it will be stored 24h
+
+
+### Sanger sequencing setup
+
+Dilute For primer to 3.2 µM
+
+use a multichannel to take 2ul from each sample into a new plate, and add 10ul of nuclease free water to each well for a 1:5 dilution.
+
+Add 2ul of 3.2uM primer to each well and cover with a foil seal. 
+
+Label the seal with POC COTS RAPID Putnam 2024XXXX HP001 - HP080
 
 
 
