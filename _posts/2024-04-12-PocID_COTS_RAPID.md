@@ -10,16 +10,18 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ## Equipment and Reagents
 
 - Sample Preservation and Lysis [Zymo Research DNA/RNA Shield R1100-250](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Zymo_r1100-250_dna_rna_shield.pdf)
-- DNA Extraction [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
+- DNA Extraction 96 Well Plate [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
+- DNA Extraction Individual Samples [Zymo Research Quick-DNA™ Miniprep plus kit extraction Cat D4068](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/d4068_d4069_quick-dna_miniprep_plus_kit.pdf) 
 - Proteinase K [Zymo Proteinase K with Storage BufferZymo D3001-2-20](https://www.zymoresearch.com/products/proteinase-k-w-storage-buffer-set)
 - PK Digestion Buffer [Zymo PK Digestion Buffer R1200-1-20](https://www.zymoresearch.com/products/pk-digestion-buffer)   
 - Foward primer [FatP6.1 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
 - Reverse primer [RORF 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/RORF_IDT_Spec_328104853.pdf)         
 - Master Mix [EmeraldAmp GT PCR Master Mix RR320A](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/TaKaRa_Emerald_RR320A_DS.pdf)
 - EmeraldAmp GT PCR Master Mix is a loading-dye-added version of EmeraldAmp MAX PCR Master Mix that is optimized for great performance and convenience in both standard and high-throughput PCR applications.
-- Loading Dye [NEB 6X Purple Loading Dye NEB Cat # B7024S]()        
+- Loading Dye [NEB 6X Purple Loading Dye NEB Cat # B7024S](https://www.neb.com/en-us/products/b7025-gel-loading-dye-purple-6x-no-sds)        
 - Gel Stain [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
-- DNA Ladder [1kb Gel ladder](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/NEB_1kb_Ladder_N3232S.png?raw=true)
+- DNA Ladder Image NEB Cat N0550G [1kb Gel ladder NEB Cat N0550G](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/NEB_1kb_Ladder_N3232S.png?raw=true)
+- DNA Ladder NEB Cat N0550G [1kb Gel ladder NEB Cat N0550G](https://www.neb.com/en-us/products/n0550-quick-load-purple-1-kb-plus-dna-ladder)
 - KapaPure Beads Fisher 50-196-5220 [Roche Diagnostics 07983280001](https://www.fishersci.com/shop/products/kapa-pure-beads-4/501965220) 
 - Eppendorf Deepwell Plate 96/2000 µL plates [Eppendorf Cat # 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502)
 
@@ -31,7 +33,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 
 DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
 
-Used Page 10 [Proteinase K Digestino with DNA/RNA Shield](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
+Used Page 10 [Proteinase K Digestion with DNA/RNA Shield](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
 
 Used [Eppendorf Deepwell Plate 96/2000 µL plates Catalog No. 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502) for reagent and sample mixing prior to adding to Zymo column plate
 
@@ -83,16 +85,16 @@ The waste was removed from the collection plate after each centrifugation step.
 ## Quantification of gDNA   
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. 
 
-Sample ID | Plate | Well |Project | Collection Date |  
----|---|---| ---|---|
-POC-466 | Plate 001 | A1 |POC HISTOLOGY | Sept 2022 |  
-POC-478 | Plate 001 | B1 |POC HISTOLOGY | Sept 2022 |  
-FLOW-005 | Plate 001 | C1 |FLOW SKELETON | Sept 2022 |  
-FLOW-020 | Plate 001 | D1 |FLOW SKELETON | Sept 2022 |
-FLOW-033 | Plate 001 | E1 |FLOW SKELETON | Sept 2022 |  
-TPC REC-001 | Plate 001 | F1 |TPC COTS RAPID | Sept 2022 |  
-TPC REC-013 | Plate 001 | G1 |TPC COTS RAPID | Sept 2022 |  
-TPC REC-025 | Plate 001 | H1 |TPC COTS RAPID | Sept 2022 |  
+Sample ID | Plate | Well |Project | Collection Date |  ng/µl | A260/280 | A260/230|
+---|---|---| ---|---|---|---|---|
+POC-466 | Plate 001 | A1 |POC HISTOLOGY | Sept 2022 |  ---|---|---|
+POC-478 | Plate 001 | B1 |POC HISTOLOGY | Sept 2022 |  ---|---|---|
+FLOW-005 | Plate 001 | C1 |FLOW SKELETON | March 2024 |  ---|---|---|
+FLOW-020 | Plate 001 | D1 |FLOW SKELETON | March 2024 |---|---|---|
+FLOW-033 | Plate 001 | E1 |FLOW SKELETON | March 2024 |  ---|---|---|
+TPC REC-001 | Plate 001 | F1 |TPC COTS RAPID | March 2024 |  ---|---|---|
+TPC REC-013 | Plate 001 | G1 |TPC COTS RAPID | March 2024 |  ---|---|---|
+TPC REC-025 | Plate 001 | H1 |TPC COTS RAPID | March 2024 |  ---|---|---|
 
 
 ## PCR
@@ -141,6 +143,86 @@ Bands of ~1000 bp are present in all samples except the negative control for the
 Bands of HMW were present for all of the gDNA. 
 
 Amplified samples were saved in PCR plate for cleanup for mtORF For primer Sanger sequencing in 4°C fridge by PCR bench.
+
+
+# 20240419
+
+## DNA extraction of remaining 16 samples from Plate 001
+
+DNA was extracted with[Zymo Research Quick-DNA™ Miniprep plus kit extraction Cat D4068](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/d4068_d4069_quick-dna_miniprep_plus_kit.pdf) 
+
+ProteinaseK was already added from steps above, so started at step 3 on page 7.
+
+- Added 300µl of Genomic Binding Buffer to the sample and mixed with the pipette.
+- Transferred the mixture to a Zymo-Spin™ IIC-XLR Column in a
+Collection Tube. Centrifuged at 12,000 x g for 1 minute. Discarded the
+flow through and collection tube.
+- Added 400 µl DNA Pre-Wash Buffer to the spin column in a new
+Collection Tube. Centrifuged at 12,000 x g for 1 minute. Emptied the
+Collection Tube. 
+- Added 700 µl g-DNA Wash Buffer to the spin column. Centrifuged at
+12,000 x g for 1 minute. Emptied the Collection Tube.
+- Added 200 µl g-DNA Wash Buffer to the spin column. Centrifuged at
+12,000 x g for 1 minute. Discarded the Collection Tube with the flow
+through.
+- Transfer the spin column to a clean microcentrifuge tube. Add 60 µl
+DNA Elution Buffer that was heated to 70°C and incubated for 5
+minutes at room temperature, then centrifuged at 20,000 x g  for
+1 minute to elute the DNA. 
+- The eluted DNA was then quantified via nanodrop, used for PCR, and stored -20ºC in box 1 of a new vertical metal rack in chest freezer for future use.
+
+
+## Quantification of gDNA   
+Used Lane lab nanodrop and kit elution buffer as blank to quantify the 16 samples.
+
+Sample ID | Plate | Well |Project | Collection Date |  ng/µl | A260/280 | A260/230|
+---|---|---| ---|---|---|---|---|
+POC-476 | Plate 001 | A11 |POC HISTOLOGY | Sept 2022 |  ---|---|---|
+FLOW-003 | Plate 001 | C11 |FLOW SKELETON | March 2024 |  ---|---|---|
+FLOW-017 | Plate 001 | C11 |FLOW SKELETON | March 2024 |  ---|---|---|
+FLOW-031 | Plate 001 | D11 |FLOW SKELETON | March 2024 |---|---|---|
+FLOW-043 | Plate 001 | E11 |FLOW SKELETON | March 2024 |  ---|---|---|
+TPC REC-011 | Plate 001 | F11 |TPC COTS RAPID | March 2024 |  ---|---|---|
+TPC REC-023 | Plate 001 | G11 |TPC COTS RAPID | March 2024 |  ---|---|---|
+TPC REC-035 | Plate 001 | H11 |TPC COTS RAPID | March 2024 |---|---|---|
+POC-477 | Plate 001 | A11 |POC HISTOLOGY | Sept 2022 |  ---|---|---|
+FLOW-004 | Plate 001 | C11 |FLOW SKELETON | March 2024 |  ---|---|---|
+FLOW-019 | Plate 001 | C11 |FLOW SKELETON | March 2024 |  ---|---|---|
+FLOW-032 | Plate 001 | D11 |FLOW SKELETON | March 2024 |---|---|---|
+FLOW-044 | Plate 001 | E11 |FLOW SKELETON | March 2024 |  ---|---|---|
+TPC REC-012 | Plate 001 | F11 |TPC COTS RAPID | March 2024 |  ---|---|---|
+TPC REC-024 | Plate 001 | G11 |TPC COTS RAPID | March 2024 |  ---|---|---|
+TPC REC-036 | Plate 001 | H11 |TPC COTS RAPID | March 2024 |  ---|---|---|
+Elution Buffer| NA | H11 |TPC COTS RAPID | March 2024 | ---|---|---|   
+
+
+### Master Mix: For 18 rxns +2 = 20 
+
+Reagent | 1Rxn µl | 20 Rxn µl |  
+---|---|---|
+EmeraldAmp GT Mix (2x)| 		12.5	|	250|
+F primer FatP6.1 (10µM) |	0.3	|	6
+R primer RORF		(10µM)  |	0.3	|	6
+DNA		|				1		| NA	
+H2O			|			10.9	|	218
+Total volume 		|	25		|	----
+
+24µl of master mix was added to each of 18 wells
+positive control = POC 156 Spawning
+negative control = master mix water
+
+### Thermal Cycling Conditions 
+- [94°C 60 secondes] 1 cycle
+- [94°C 30 sec,53°C 30 sec, 72°C 75 sec] 30 cycles
+- [72°C 5 minutes] 1 cycle
+- [4°C infinity]
+
+### PCR Gel protocol
+DNA was assessed with a small 28 well 1.5% agarose gel in 1x TAE buffer (1.12g agarose in 75ml of 1X TAE, Tris base, acetic acid and EDTA) run at for 20 mins at 100 V and stained with 1.5 µl of Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 4 µl of sample or 4µl of NEB 1kb plus purple ladder were added to each well.
+
+### Gel Results
+   
+![Pocillopora mtORF PCR and Pocillopora gDNA 4/12/24]()
 
 
 # 202404XX
