@@ -148,7 +148,7 @@ Amplified samples were saved in PCR plate for cleanup for mtORF For primer Sange
 
 # 20240419
 
-## DNA extraction of remaining 16 samples from Plate 001
+## DNA extraction of remaining 16 samples from Plate001
 
 DNA was extracted with[Zymo Research Quick-DNA™ Miniprep plus kit extraction Cat D4068](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/d4068_d4069_quick-dna_miniprep_plus_kit.pdf) 
 
@@ -227,8 +227,8 @@ DNA was assessed with a small 28 well 1.5% agarose gel in 1x TAE buffer (1.12g a
    
 ![Pocillopora mtORF PCR 4/19/24](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240419_mtORF_gel_Pocillopora.jpg?raw=true)
 
-bands were seen in all lanes except the negative control
-PCR product was stored in the 4°C fridge by the PCR bench with the rest of Plate 001
+PCR bands of the expected size were seen in all lanes except the negative control.
+PCR product was stored in the 4°C fridge by the PCR bench with the rest of Plate 001.
 
 
 # 202404XX
