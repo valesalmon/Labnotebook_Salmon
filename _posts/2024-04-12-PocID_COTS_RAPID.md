@@ -85,17 +85,17 @@ The waste was removed from the collection plate after each centrifugation step.
 ## Quantification of gDNA   
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. 
 
-Sample ID | Plate | Well |Project | Collection Date |  ng/µl | A260/280 | A260/230|
+Sample ID |  Well |Project | Collection Date |  ng/µl | A260/280 | A260/230|
 ---|---|---| ---|---|---|---|---|
-POC-466 | Plate 001 | A1 |POC HISTOLOGY | Sept 2022 |  5.1|2.14|0.97|
-POC-478 | Plate 001 | B1 |POC HISTOLOGY | Sept 2022 |  7.6|2.16|2.04|
-FLOW-005 | Plate 001 | C1 |FLOW SKELETON | March 2024 | 15.9|2.08|2.14|
-FLOW-020 | Plate 001 | D1 |FLOW SKELETON | March 2024 |10.6|1.96|1.77|
-FLOW-033 | Plate 001 | E1 |FLOW SKELETON | March 2024 |  6.8|2.40|0.85|
-TPC REC-001 | Plate 001 | F1 |TPC COTS RAPID | March 2024 |  12.3|2.00|1.89|
-TPC REC-013 | Plate 001 | G1 |TPC COTS RAPID | March 2024 |  10.3|2.04|1.19|
-TPC REC-025 | Plate 001 | H1 |TPC COTS RAPID | March 2024 |  22.8|1.98|1.58|
-Elution Buffer | NA | NA |NA | NA |  0.1|-0.46|0.36|
+POC-466 |  A1 |POC HISTOLOGY | Sept 2022 |  5.1|2.14|0.97|
+POC-478 |  B1 |POC HISTOLOGY | Sept 2022 |  7.6|2.16|2.04|
+FLOW-005 |  C1 |FLOW SKELETON | March 2024 | 15.9|2.08|2.14|
+FLOW-020 |  D1 |FLOW SKELETON | March 2024 |10.6|1.96|1.77|
+FLOW-033 |  E1 |FLOW SKELETON | March 2024 |  6.8|2.40|0.85|
+TPC REC-001 | F1 |TPC COTS RAPID | March 2024 |  12.3|2.00|1.89|
+TPC REC-013 |  G1 |TPC COTS RAPID | March 2024 |  10.3|2.04|1.19|
+TPC REC-025 |  H1 |TPC COTS RAPID | March 2024 |  22.8|1.98|1.58|
+Elution Buffer | NA |NA | NA |  0.1|-0.46|0.36|
 
 
 ## PCR
@@ -178,25 +178,25 @@ minutes at room temperature, then centrifuged at 20,000 x g  for
 ## Quantification of gDNA   
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the 16 samples.
 
-Sample ID | Plate | Well |Project | Collection Date |  ng/µl | A260/280 | A260/230|
+Sample ID | Well |Project | Collection Date |  ng/µl | A260/280 | A260/230|
 ---|---|---| ---|---|---|---|---|
-POC-476 | Plate 001 | A11 |POC HISTOLOGY | Sept 2022 |  14.8|2.10|0.63|
-FLOW-003 | Plate 001 | C11 |FLOW SKELETON | March 2024 |  38.4|1.91|1.97|
-FLOW-017 | Plate 001 | C11 |FLOW SKELETON | March 2024 |  28.7|2.01|0.11|
-FLOW-031 | Plate 001 | D11 |FLOW SKELETON | March 2024 |42.9|1.97|1.96|
-FLOW-043 | Plate 001 | E11 |FLOW SKELETON | March 2024 |  45.1|1.94|1.88|
-TPC REC-011 | Plate 001 | F11 |TPC COTS RAPID | March 2024 | 11.1|2.20|0.04|
-TPC REC-023 | Plate 001 | G11 |TPC COTS RAPID | March 2024 |  94.0|1.92|0.38|
-TPC REC-035 | Plate 001 | H11 |TPC COTS RAPID | March 2024 |2.2|3.04|0.19|
-POC-477 | Plate 001 | A11 |POC HISTOLOGY | Sept 2022 |  15.7|2.00|1.44|
-FLOW-004 | Plate 001 | C11 |FLOW SKELETON | March 2024 | 55.3|1.93|1.93|
-FLOW-019 | Plate 001 | C11 |FLOW SKELETON | March 2024 | 38.4|1.97|2.11|
-FLOW-032 | Plate 001 | D11 |FLOW SKELETON | March 2024 |46.3|1.86|1.54|
-FLOW-044 | Plate 001 | E11 |FLOW SKELETON | March 2024 |20.5|1.99|1.00|
-TPC REC-012 | Plate 001 | F11 |TPC COTS RAPID | March 2024 | 15.0|2.10|1.58|
-TPC REC-024 | Plate 001 | G11 |TPC COTS RAPID | March 2024 | 58.2|1.93|2.39|
-TPC REC-036 | Plate 001 | H11 |TPC COTS RAPID | March 2024 | 6.8|2.66|0.84|
-Elution Buffer| NA | H11 |TPC COTS RAPID | March 2024 | 0.5|-1.24|0.39|   
+POC-476 |  A11 |POC HISTOLOGY | Sept 2022 |  14.8|2.10|0.63|
+FLOW-003 |  C11 |FLOW SKELETON | March 2024 |  38.4|1.91|1.97|
+FLOW-017 | C11 |FLOW SKELETON | March 2024 |  28.7|2.01|0.11|
+FLOW-031 |  D11 |FLOW SKELETON | March 2024 |42.9|1.97|1.96|
+FLOW-043 |  E11 |FLOW SKELETON | March 2024 |  45.1|1.94|1.88|
+TPC REC-011 | F11 |TPC COTS RAPID | March 2024 | 11.1|2.20|0.04|
+TPC REC-023 | G11 |TPC COTS RAPID | March 2024 |  94.0|1.92|0.38|
+TPC REC-035 |  H11 |TPC COTS RAPID | March 2024 |2.2|3.04|0.19|
+POC-477 |  A11 |POC HISTOLOGY | Sept 2022 |  15.7|2.00|1.44|
+FLOW-004 |  C11 |FLOW SKELETON | March 2024 | 55.3|1.93|1.93|
+FLOW-019 |  C11 |FLOW SKELETON | March 2024 | 38.4|1.97|2.11|
+FLOW-032 |  D11 |FLOW SKELETON | March 2024 |46.3|1.86|1.54|
+FLOW-044 |  E11 |FLOW SKELETON | March 2024 |20.5|1.99|1.00|
+TPC REC-012 |  F11 |TPC COTS RAPID | March 2024 | 15.0|2.10|1.58|
+TPC REC-024 |  G11 |TPC COTS RAPID | March 2024 | 58.2|1.93|2.39|
+TPC REC-036 |  H11 |TPC COTS RAPID | March 2024 | 6.8|2.66|0.84|
+Elution Buffer|  H11 |TPC COTS RAPID | March 2024 | 0.5|-1.24|0.39|   
 
 
 ### Master Mix: For 18 rxns +2 = 20 
