@@ -240,6 +240,8 @@ PCR product was stored in the 4°C fridge by the PCR bench with the rest of Plat
 
 **KAPAPure beads are light sensitive**
 
+
+
 _Take KAPA pure beads out of 4 degree fridge ~30 minutes before use to get to room temperature, and swirl to even out the beads (which settle on the bottom), and keep them in a drawer while warming out of the light_
 
 Make fresh 80% ethanol for each day. For example in 50mL conical add 40mL of 100% ethanol and 10ml of ultrapure water.
