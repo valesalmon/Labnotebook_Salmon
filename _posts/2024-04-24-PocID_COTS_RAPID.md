@@ -30,7 +30,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ## Plate preparation
 Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well 96 eppendorf plate. Added 10µl of PK DIgestion buffer and 5µl of ProteinaseK to each well and mixed by pipetting. Sealed plate with a foil cover and placed at -20°C for subsequent extraction.
 
-[Plate003 Sample Map]()
+![gDNA extraction Plate003 Sample Map](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240424_Plate003_extractionmap.jpg?raw=true)
 
 
 # 24 April 2024
@@ -46,7 +46,7 @@ Used [Eppendorf Deepwell Plate 96/2000 µL plates Catalog No. 951033502](https:/
 The samples were extracted according to the manufacturer’s instructions for the Quick DNA 96 Kit for samples stored in DNA/RNA Shield including the addition of 15µl of Proteinase K (20mg ml-1). 
 
 
-- Next 4 volumes of Zymo Kit Genomic Lysis Buffer was added for each volume of the sample digestion (e.g., add 400µl of Genomic Lysis Buffer to 100µl of sample digestion). Samples were mixed via pipetting and the mixutres were incubated for 5 minutes at room temperature. 
+- Next 4 volumes of Zymo Kit Genomic Lysis Buffer was added for each volume of the sample digestion (e.g., add 400µl of Genomic Lysis Buffer to 100µl of sample digestion). Samples were mixed via pipetting and the mixtures were incubated for 5 minutes at room temperature. 
 
 Each well of the Silicon-A plate set on the collection plate can hold 600µl, but this brings the liquid too close to the top and increases chances of carry over to other wells. Becasue of this, I added the sample in 4 steps for Plate 002: 
 1) 400µl and then 5 minute spin at 1000 rcf
@@ -65,7 +65,7 @@ The waste was removed from the collection plate after each centrifugation step.
 #### Samples
 
 ![Pocillopora gDNA extraction Samples: Plate 002]()
-![Pocillopora gDNA extraction Samples: Plate 003]()
+![gDNA extraction Plate003 Sample Map](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240424_Plate003_extractionmap.jpg?raw=true)
 
 
 
