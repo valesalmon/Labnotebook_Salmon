@@ -30,7 +30,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ## Plate preparation
 Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well 96 eppendorf plate. Added 10µl of PK DIgestion buffer and 5µl of ProteinaseK to each well and mixed by pipetting. Sealed plate with a foil cover and placed at -20°C for subsequent extraction.
 
-![gDNA extraction Plate003 Sample Map](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240424_Plate003_extractionmap.jpg?raw=true)
+![gDNA extraction Plate003 Sample Map](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240424_Plate003_extractionmap.png?raw=true)
 
 
 # 24 April 2024
@@ -65,7 +65,7 @@ The waste was removed from the collection plate after each centrifugation step.
 #### Samples
 
 ![Pocillopora gDNA extraction Samples: Plate 002]()
-![gDNA extraction Plate003 Sample Map](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240424_Plate003_extractionmap.jpg?raw=true)
+![gDNA extraction Plate003 Sample Map](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240424_Plate003_extractionmap.png?raw=true)
 
 
 
