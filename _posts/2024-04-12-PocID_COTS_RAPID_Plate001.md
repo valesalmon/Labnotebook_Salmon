@@ -281,5 +281,7 @@ _Take KAPA pure beads out of 4 degree fridge ~30 minutes before use to get to ro
 
 - Labelled the seal with POC COTS RAPID Putnam 20240421 HP0001 - HP0096
 
+- Sanger sequenced received as folders HP_240423B and HP_240425 and stored in respective github repos.
+
 
 
