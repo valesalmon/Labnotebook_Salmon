@@ -5,7 +5,7 @@ date: '2024-04-12'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
-# Pocillopora species ID COTS POC RAPID
+# Pocillopora species ID COTS POC RAPID Plate 001
 
 ## Equipment and Reagents
 
