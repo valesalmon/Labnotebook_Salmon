@@ -69,11 +69,12 @@ DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (1.15g agarose in 75ml
 
 ### Gel Results
    
-![Pocillopora mtORF PCR Ulithi]()
+![Pocillopora mtORF PCR Ulithi](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240429_Stephane_mtORF_gel.jpg?raw=true)
+
+[Pocillopora mtORF PCR Ulithi](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240429_Stephane_mtORF_gel.jpg?raw=true)
 
 
-
-Bands of ~1000 bp are present in all samples except the negative control for the mtORF amplicons.
+Bands of ~1000 bp are present in all samples except the negative control for the mtORF amplicons. Sog poci 2 Sog poci 4 are faint and all bands are lighter than last Poc PCR, so I am adding a higher concentration of PCR product to the Sanger sequence prep below.  
 
 
 # PCR Cleanup
