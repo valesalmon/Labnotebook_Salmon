@@ -20,6 +20,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 Stephane completed DNA extractions
 
 ## Nanodrop
+
 Sample ID |  ng/µl | A260/280 | A260/230|
 ---|---|---| ---|
 sog poci 1 |   5.0|1.87|0.24|
@@ -32,6 +33,7 @@ sohng poci 2 |22.2|1.81|0.05|
 sohng poci 3 | 1.6|42.64|0.01|
 sohng poci 4 | 2.0|2.42|0.66|
 sohng poci 5 | 1.2|9.89|0.97|
+
 
 ## PCR
 ### Prepare Reagents
