@@ -114,6 +114,18 @@ Bands of ~1000 bp are present in all samples except the negative control for the
 
 - Added 5µl of nucease free water, 5µl from each sample, and 2µL of FatP6.1 Forward primer (at 3.2 µM) into tubes
 
-- Labelled the tubes HP1 - HP10 and submitted to Parmacy building 
+- Labelled the tubes HP1 - HP10 and submitted to Parmacy building URI CRCF 
 
-
+   
+Sample ID |  Sequencing Label | mtORF Seq Outcome |
+---|---|----|
+sog poci 1 |   HP01_240430| P. verrucosa|
+sog poci 2 |   HP02_240430| short and dirty |
+sog poci 3 |   HP03_240430| P. verrucosa|
+sog poci 4 |   HP04_240430| short and dirty |
+sog poci 5 |   HP05_240430| dirty |
+sohng poci 1 | HP06_240430| P. verrucosa|
+sohng poci 2 | HP07_240430| P. verrucosa|
+sohng poci 3 | HP08_240430| P. verrucosa|
+sohng poci 4 | HP09_240430| P. verrucosa|
+sohng poci 5 | HP10_240430| P. verrucosa|
