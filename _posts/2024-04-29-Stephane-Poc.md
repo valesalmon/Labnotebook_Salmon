@@ -129,3 +129,34 @@ sohng poci 2 | HP07_240430| P. verrucosa|
 sohng poci 3 | HP08_240430| P. verrucosa|
 sohng poci 4 | HP09_240430| P. verrucosa|
 sohng poci 5 | HP10_240430| P. verrucosa|
+
+
+ITS2
+
+
+Plate 1 - full plate
+
+Plate 2 - partial plate
+
+### Master Mix: For X rxns +2 = 140 
+
+Reagent | 1Rxn µl | 140 Rxn µl |  
+---|---|---|
+Phusion Master Mix (2x)| 		12.5	|	x|
+F primer x (10µM) |	0.3	|	x
+R primer x	(10µM)  |	0.3	|	x
+DNA		|				1		| x	
+H2O			|			6.9	|	x
+Total volume 		|	25		|	x
+
+21µl of master mix added to each of the tubes and 4 µl of DNA. 
+
+
+### Thermal Cycling Conditions for ITS2
+- [94°C 60 secondes] 1 cycle
+- [94°C 30 sec,53°C 30 sec, 72°C 75 sec] 30 cycles
+- [72°C 5 minutes] 1 cycle
+- [4°C infinity]
+
+### PCR Gel protocol
+DNA was assessed with a 1.5% agarose gel in 1x TAE buffer (2.25g agarose in 150ml of 1X TAE, Tris base, acetic acid and EDTA) run at for 60 mins at 45 V and stained with 3µl Biotium GelGreen Nucleic Acid Gel Stain (10,000X in Water Fisher Cat NC9728313). 4µl of sample or ladder were added to each well of the gel. Sample was mixed with 1µl purple loading dye NEB
