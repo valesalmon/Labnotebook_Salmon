@@ -32,7 +32,7 @@ Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well
 
 #### Samples
 
-![gDNA extraction Plate004 Plate 005 Sample Maps]()
+![gDNA extraction Plate004 Plate 005 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240504_Plate004_Plate005_extractionmap.jpg?raw=true)
 
 
 
