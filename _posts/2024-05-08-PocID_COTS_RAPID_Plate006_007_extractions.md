@@ -5,7 +5,7 @@ date: '2024-05-08'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
-# Pocillopora species ID COTS POC RAPID Plate006 and Plate007
+# gDNA Extractios for Pocillopora species ID COTS POC RAPID Plate006 and Plate007
 
 ## Equipment and Reagents
 
