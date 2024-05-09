@@ -62,7 +62,7 @@ The waste was removed from the collection plate after the first centrifugation s
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on each plate. Measured 1.5µl of sample. 
 
 Sample ID |  Well |Project |  ng/µl | A260/280 | A260/230| gDNA Plate|
----|---|---| ---|---|---|---|---|---|
+---|---|---| ---|---|---|---|
 1052  |A1  |POC COTS RAPID RA | 18.4|1.94|2.34| Plate008
 1142  |B1  |POC COTS RAPID RA | 22.7|1.97|1.59| Plate008
 1123  |C1  |POC COTS RAPID RA | 22.9|1.95|2.25| Plate008
