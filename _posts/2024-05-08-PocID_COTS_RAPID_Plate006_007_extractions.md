@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poc ID via mtORF POC RAPID Plate 004 Plate 005
+title: Poc ID via mtORF POC RAPID Plate 006 Plate 007
 date: '2024-05-08'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
@@ -32,7 +32,7 @@ Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well
 
 #### Samples
 
-![gDNA extraction Plate006 Plate 007 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240504_Plate004_Plate005_extractionmap.jpg?raw=true)
+![gDNA extraction Plate006 Plate 007 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240508_Plate006_Plate007_extractions.jpg?raw=true)
 
 
 
@@ -69,7 +69,7 @@ The waste was removed from the collection plate after each centrifugation step.
 
 
 
-# 04 May 2024
+# 08 May 2024
 ## Quantification of gDNA   
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. Used 1.5µl of sample 
 
