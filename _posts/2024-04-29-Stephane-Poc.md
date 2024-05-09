@@ -6,6 +6,8 @@ categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
 
+#Identification of Pocillopora species from Ulithi
+
 # Supplies
 
 - DNA Extraction Individual Samples [Zymo Research Quick-DNA™ Miniprep plus kit extraction Cat D4068](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/d4068_d4069_quick-dna_miniprep_plus_kit.pdf) 
