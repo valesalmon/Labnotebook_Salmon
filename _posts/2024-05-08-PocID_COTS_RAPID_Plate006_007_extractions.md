@@ -57,7 +57,7 @@ Added 100µl of sample + 10µl of PK Digestion Buffer + 5µl of ProteinaseK. Pip
 	- 192 samples x 50µl = 9.6ml
 
 ## Quantification of gDNA   
-Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. Used 1.5µl of sample 
+Used Lane lab nanodrop and kit elution buffer as blank to quantify the DNA. Used 1.5µl of sample 
 
 Sample ID |  Well |Project |  ng/µl | A260/280 | A260/230| gDNA Plate|
 ---|---|---| ---|---|---|---|
