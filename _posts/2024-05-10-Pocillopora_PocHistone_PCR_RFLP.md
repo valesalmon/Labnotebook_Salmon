@@ -119,11 +119,12 @@ Flow-0029
 Ran PocHIstone RFLP with NEB Restriction Enzyme XhoI, NEB Cat# R0146S 
 - Restriction Enzyme [XhoI R0146Sk](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/XhoI%20_%20NEB_R0146S.pdf)    
 - Restriction Enzyme Buffer [rCutSmart B6004S](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/rCutSmart_Buffer%20_%20NEB_B6004S.pdf)    	
+
 ### Restriction Digest Master Mix
-Reagent	|1Rxn µl	|80 Rxn µl|   
----|---|---|   
-XhoI restriction enzyme |	0.5	|40 |  
-1X CutSmartR buffer 	|0.5|	40 |  
+Reagent	|1Rxn µl	|80 Rxn µl   
+---|---|---      
+XhoI restriction enzyme |	0.5	|40   
+1X CutSmartR buffer 	|0.5|	40   
 
 For each sample added 1µl of Restriction Digest Master Mix to 15µl of PCR product.
 Incubated samples for 1 hr at 37°C followed by 20 min at 65°C to inactivate the enzymes. 
