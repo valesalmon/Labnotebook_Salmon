@@ -59,7 +59,7 @@ The waste was removed from the collection plate after the first centrifugation s
 
 
 ## Quantification of gDNA   
-Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on each plate. Measured 1.5µl of sample. 
+Used Lane lab nanodrop and kit elution buffer as blank to quantify the DNA. Measured 1.5µl of sample. 
 
 Sample ID |  Well |Project |  ng/µl | A260/280 | A260/230| gDNA Plate|
 ---|---|---| ---|---|---|---|
