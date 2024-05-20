@@ -145,6 +145,9 @@ Bands of 669bp indicates the samples are P. meandrina. Two bands at 287 and 382 
 
 ![20240510 POCHistone RFPL Gel](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240510_POCHistone_RFLP_Gel.png?raw=true)
 
+POC-476 = P. tua from Sanger Seq (Haplotype 10). Does not cut with XhoI.   
+POC-477 = P. tua from Sanger Seq (Haplotype 10). Does not cut with XhoI.   
+
 ### P. meandrina 1 band   
 REC-004
 REC-005
@@ -179,8 +182,6 @@ POC-466
 POC-468
 POC-469
 POC-475
-POC-476
-POC-477
 FLOW-019
 FLOW-020
 FLOW-021
