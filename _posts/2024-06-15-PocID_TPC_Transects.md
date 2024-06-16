@@ -208,4 +208,6 @@ POC-401| Moorea TPC Relative Abundance| May 2022 |
 
 #### Gel Results
 
-Bands of are present for the majority of samples but faint
+Bands of are present for the majority of samples but faint.
+
+Will proceed with For primer sequencing for all samples with no dilution following sample cleanup.
