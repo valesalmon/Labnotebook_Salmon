@@ -13,8 +13,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 - Foward primer [FatP6.1 200µM Stock IDT)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
 - Reverse primer [RORF 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/RORF_IDT_Spec_328104853.pdf)         
 - Master Mix [EmeraldAmp GT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/TaKaRa_Emerald_RR320A_DS.pdf)
-- EmeraldAmp GT PCR Master Mix is a loading-dye-added version of EmeraldAmp MAX PCR Master Mix that is optimized for great performance and convenience in both standard and high-throughput PCR applications.
-- Loading Dye [NEB 6X Purple Loading Dye NEB Cat # B7024S]()        
+- EmeraldAmp GT PCR Master Mix is a loading-dye-added version of EmeraldAmp MAX PCR Master Mix that is optimized for great performance and convenience in both standard and high-throughput PCR applications.       
 - Gel Stain [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
 - Gel Ladder [Zymo 5006-50 1kb ladder ready to load](https://www.zymoresearch.com/products/zr-1-kb-dna-marker)
  
@@ -147,6 +146,8 @@ POC-257| Moorea TPC Relative Abundance| May 2022 |
 
 Bottom Row
 
+Sample ID | Project | Collection Date |  
+---|---|---|
 POC-262| Moorea TPC Relative Abundance| May 2022 |
 POC-263| Moorea TPC Relative Abundance| May 2022 |
 POC-264| Moorea TPC Relative Abundance| May 2022 |
@@ -166,7 +167,7 @@ POC-363| Moorea TPC Relative Abundance| May 2022 |
 POC-364| Moorea TPC Relative Abundance| May 2022 |
 POC-365| Moorea TPC Relative Abundance| May 2022 |
    
-![Gel 1](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/_posts/2022-04-11-ChelexAndDirectAmp.md)
+![Gel 1](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240615_Gel1.jpg?raw=true)
 
 Gel 2
 
@@ -182,7 +183,7 @@ H20 | negative control | NA|
 Bottom Row
 
 Sample ID | Project | Collection Date |  
----|---|---|
+---|---|---|   
 POC-366| Moorea TPC Relative Abundance| May 2022 |
 POC-367| Moorea TPC Relative Abundance| May 2022 |
 POC-368| Moorea TPC Relative Abundance| May 2022 |
@@ -203,8 +204,8 @@ POC-400| Moorea TPC Relative Abundance| May 2022 |
 POC-401| Moorea TPC Relative Abundance| May 2022 |
 
 
-![Gel 2](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/_posts/2022-04-11-ChelexAndDirectAmp.md)
+![Gel 2](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240615_Gel2.jpg?raw=true)
 
 #### Gel Results
 
-Bands of are present but faint
+Bands of are present for the majority of samples but faint
