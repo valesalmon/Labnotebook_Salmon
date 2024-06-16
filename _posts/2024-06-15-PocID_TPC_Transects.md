@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Poc ID via mtORF 
-date: '2023-07-23'
+title: Poc TPC Transect ID via mtORF 
+date: '2024-06-15'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
