@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Poc ID via mtORF POC RAPID Plate 004 Plate 005
-date: '2024-05-04'
+title: Poc ID via mtORF POC RAPID Plate 008 Plate 009
+date: '2024-05-09'
 categories: Sanger
-tags: [DNA, Gel, PCR, Pocillopora, mtORF]
+tags: [DNA, Pocillopora]
 ---
-# gDNA Extraction of Pocillopora species ID COTS POC RAPID Plate004 and Plate005
+# gDNA extraction for Pocillopora species ID COTS POC RAPID Plate008 and Plate009
 
 ## Equipment and Reagents
 
@@ -16,13 +16,14 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 - Eppendorf Deepwell Plate 96/2000 µL plates [Eppendorf Cat # 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502)
 
 
-# 04 May 2024
-## Plate preparation Plate 004 and Plate 005
-Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well 96 eppendorf plate.
+# 09 May 2024
+## Plate preparation of Plate 008 and Plate 009
+Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well 96 eppendorf plate for 96 samples x 2 plates = 192 samples. 
 
 #### Samples
 
-![gDNA extraction Plate004 Plate 005 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240504_Plate004_Plate005_extractionmap.jpg?raw=true)
+![gDNA extraction Plate008 Plate 009 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240509_Plate008_Plate009_extractions.jpg?raw=true)
+
 
 ## DNA Extraction  
 
@@ -30,7 +31,7 @@ DNA was extracted with[Zymo Research Quick-DNA™ 96 Kit D3010](https://github.c
 
 Used Page 10 [Proteinase K Digestion with DNA/RNA Shield](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240411_ZymoQuickDNA96_notes.jpg?raw=true)
 
-Used [Eppendorf Deepwell Plate 96/2000 µL plates Catalog No. 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502) for reagent and sample mixing prior to adding to Zymo column plate
+Used [Eppendorf Deepwell Plate 96/2000 µL plates Catalog No. 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502) for reagent and sample mixing prior to adding to Zymo silicon column plate
 
 The samples were extracted according to the manufacturer’s instructions for the Quick DNA 96 Kit for samples stored in DNA/RNA Shield including the addition of Proteinase K (20mg ml-1). 
 
@@ -38,37 +39,47 @@ Added 100µl of sample + 10µl of PK Digestion Buffer + 5µl of ProteinaseK. Pip
 
 - 4 volumes of Zymo Kit Genomic Lysis Buffer was added for each volume of the sample digestion (e.g., add 400µl of Genomic Lysis Buffer to 100µl of sample digestion). Samples were mixed via pipetting and the mixtures were incubated for 5 minutes at room temperature.  Then samples were moved to the silicon-A plate columns. I added 400µl and then 5 minute spin at 2500 rcf.
 
-- Next 200µl of DNA Pre-wash buffer was added to each well and then the silicon-A plate was spun for 5 minute at 2500 rcf
+The waste was removed from the collection plate after the first centrifugation step. 
+
+- Next 200µl of DNA Pre-wash buffer was added to each well and then the silicon-A was spun for 5 minute at 2500 rcf
 
 	- used sterile 25 or 50ml plastic troughs and multi-channel pipettes
 	- 192 samples x 200µl = 38.4ml
- 	- The waste was removed from the collection plate after the first centrifugation step. 
 
-- Next 300µl of g-DNA wash buffer was added to each well and then the silicon-Aplate was spun for 5 minute at 2500 rcf
+
+- Next 300µl of g-DNA wash buffer was added to each well and then the silicon-A was spun for 5 minute at 2500 rcf
  	- used sterile 25 or 50ml plastic troughs and multi-channel pipettes
 	- 192 samples x 300µl = 57.6ml
- 	- waste was kept in the collection plate 
 
-- The silicon-A plate was moved from the collection plate to the elution plate.  
+- Moved the silicon-A plate from the collection plate to an Elution plate
 
-- DNA was then eluted in 50µl of kit Elution Buffer warmed to 70°C after standing on the column for 3-5 minutes. 
+- DNA was then eluted in 50µl of kit Elution Buffer warmed to 70°C and standing on the columns for 3-5 minutes. 
  	- used sterile 25 or 50ml plastic troughs and multi-channel pipettes
 	- 192 samples x 50µl = 9.6ml
 
+
 ## Quantification of gDNA   
-Used Lane lab nanodrop and kit elution buffer as blank to quantify the DNA. Used 1.5µl of sample 
+Used Lane lab nanodrop and kit elution buffer as blank to quantify the DNA. Measured 1.5µl of sample. 
 
 Sample ID |  Well |Project |  ng/µl | A260/280 | A260/230| gDNA Plate|
 ---|---|---| ---|---|---|---|
-622 S3 T4  |H1  |POC COTS RAPID RA | 32.3|1.85|1.99| Plate004
-844 S3 T4  |H2  |POC COTS RAPID RA | 14.4|1.91|1.91| Plate004
-849 S3 T4  |H3  |POC COTS RAPID RA | 23.7|1.91|0.87| Plate004
-848 S3 T4  |H4  |POC COTS RAPID RA | 26.7|1.85|2.66| Plate004
-757 S5 T1  |H12 |POC COTS RAPID RA | 27.8|1.86|3.08| Plate005
-958 S5 T2  |H11 |POC COTS RAPID RA | 16.5|1.89|3.23| Plate005
-1036 S5 T2 |H10 |POC COTS RAPID RA | 13.6|1.86|1.81| Plate005
-740 S5 T1  |H9  |POC COTS RAPID RA |  7.3|1.88|2.36| Plate005
-EB         |NA  |NA                | -3.8|1.53|1.22| NA
+1052  |A1  |POC COTS RAPID RA | 18.4|1.94|2.34| Plate008
+1142  |B1  |POC COTS RAPID RA | 22.7|1.97|1.59| Plate008
+1123  |C1  |POC COTS RAPID RA | 22.9|1.95|2.25| Plate008
+933   |D1  |POC COTS RAPID RA | 21.2|1.98|1.80| Plate008
+973   |E1  |POC COTS RAPID RA | 19.8|1.97|1.90| Plate008
+1007  |F1  |POC COTS RAPID RA | 24.5|2.00|2.18| Plate008
+1015  |G1  |POC COTS RAPID RA | 4.1 |1.95|2.65| Plate008
+907   |H1  |POC COTS RAPID RA | 29.2|1.95|2.18| Plate008
+1219  |A1  |POC COTS RAPID RA | 29.9|1.92|2.45| Plate009
+1204  |B1  |POC COTS RAPID RA | 25.6|1.95|1.84| Plate009
+1194  |C1  |POC COTS RAPID RA | 8.8 |1.93|0.78| Plate009
+1150  |D1  |POC COTS RAPID RA | 30.8|1.87|2.15| Plate009
+1191  |E1  |POC COTS RAPID RA | 17.8|2.01|2.14| Plate009
+1333  |F1  |POC COTS RAPID RA | 1.9 |3.96|8.02| Plate009
+1339  |G1  |POC COTS RAPID RA | 20.5|2.00|2.10| Plate009
+468   |H1  |POC COTS RAPID RA | 19.2|2.00|1.56| Plate009
+
 
 
 All tested samples had DNA and can move forward for PCR.

@@ -1,28 +1,30 @@
 ---
 layout: post
-title: Poc ID via mtORF POC RAPID Plate 004 Plate 005
-date: '2024-05-04'
+title: Poc ID via mtORF POC RAPID Plate 006 Plate 007
+date: '2024-05-08'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
-# gDNA Extraction of Pocillopora species ID COTS POC RAPID Plate004 and Plate005
+# gDNA Extractios for Pocillopora species ID COTS POC RAPID Plate006 and Plate007
 
 ## Equipment and Reagents
 
 - Sample Preservation and Lysis [Zymo Research DNA/RNA Shield R1100-250](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Zymo_r1100-250_dna_rna_shield.pdf)
 - DNA Extraction 96 Well Plate [Zymo Research Quick-DNA™ 96 D3010](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/_d3010_d3011_d3012_quick-dna_96_kit.pdf) 
+- DNA Extraction Individual Samples [Zymo Research Quick-DNA™ Miniprep plus kit extraction Cat D4068](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/d4068_d4069_quick-dna_miniprep_plus_kit.pdf) 
 - Proteinase K [Zymo Proteinase K with Storage BufferZymo D3001-2-20](https://www.zymoresearch.com/products/proteinase-k-w-storage-buffer-set)
 - PK Digestion Buffer [Zymo PK Digestion Buffer R1200-1-20](https://www.zymoresearch.com/products/pk-digestion-buffer)   
 - Eppendorf Deepwell Plate 96/2000 µL plates [Eppendorf Cat # 951033502](https://www.eppendorf.com/us-en/eShop-Products/Laboratory-Consumables/Plates/Eppendorf-Deepwell-Plates-p-951033502)
 
 
-# 04 May 2024
-## Plate preparation Plate 004 and Plate 005
-Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well 96 eppendorf plate.
+# 08 May 2024
+## Plate preparation Plate 006 and Plate 007
+Moved 100µl of sample liquid (lysed sample in Zymo RNA/DNA Shield) to deep well 96 eppendorf plate. 
 
 #### Samples
 
-![gDNA extraction Plate004 Plate 005 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240504_Plate004_Plate005_extractionmap.jpg?raw=true)
+![gDNA extraction Plate006 Plate 007 Sample Maps](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20240508_Plate006_Plate007_extractions.jpg?raw=true)
+
 
 ## DNA Extraction  
 
@@ -42,14 +44,13 @@ Added 100µl of sample + 10µl of PK Digestion Buffer + 5µl of ProteinaseK. Pip
 
 	- used sterile 25 or 50ml plastic troughs and multi-channel pipettes
 	- 192 samples x 200µl = 38.4ml
- 	- The waste was removed from the collection plate after the first centrifugation step. 
+ 	- The waste was removed from the collection plate after this centrifugation step.  
 
-- Next 300µl of g-DNA wash buffer was added to each well and then the silicon-Aplate was spun for 5 minute at 2500 rcf
+
+- Next 300µl of g-DNA wash buffer was added to each well and then the silicon-A plate was spun for 5 minute at 2500 rcf
  	- used sterile 25 or 50ml plastic troughs and multi-channel pipettes
 	- 192 samples x 300µl = 57.6ml
- 	- waste was kept in the collection plate 
-
-- The silicon-A plate was moved from the collection plate to the elution plate.  
+ 	- The waste was kept in the collection plate after this centrifugation step.  
 
 - DNA was then eluted in 50µl of kit Elution Buffer warmed to 70°C after standing on the column for 3-5 minutes. 
  	- used sterile 25 or 50ml plastic troughs and multi-channel pipettes
@@ -60,15 +61,16 @@ Used Lane lab nanodrop and kit elution buffer as blank to quantify the DNA. Used
 
 Sample ID |  Well |Project |  ng/µl | A260/280 | A260/230| gDNA Plate|
 ---|---|---| ---|---|---|---|
-622 S3 T4  |H1  |POC COTS RAPID RA | 32.3|1.85|1.99| Plate004
-844 S3 T4  |H2  |POC COTS RAPID RA | 14.4|1.91|1.91| Plate004
-849 S3 T4  |H3  |POC COTS RAPID RA | 23.7|1.91|0.87| Plate004
-848 S3 T4  |H4  |POC COTS RAPID RA | 26.7|1.85|2.66| Plate004
-757 S5 T1  |H12 |POC COTS RAPID RA | 27.8|1.86|3.08| Plate005
-958 S5 T2  |H11 |POC COTS RAPID RA | 16.5|1.89|3.23| Plate005
-1036 S5 T2 |H10 |POC COTS RAPID RA | 13.6|1.86|1.81| Plate005
-740 S5 T1  |H9  |POC COTS RAPID RA |  7.3|1.88|2.36| Plate005
-EB         |NA  |NA                | -3.8|1.53|1.22| NA
+923  |A12  |POC COTS RAPID RA | 12.8|2.11|0.56| Plate006
+811  |B12  |POC COTS RAPID RA | 13.9|2.00|1.35| Plate006
+982  |C12  |POC COTS RAPID RA | 14.4|2.10|0.72| Plate006
+1019|D12  |POC COTS RAPID RA | 22.3|1.98|2.09| Plate006
+991  |E12 |POC COTS RAPID RA | 10.8|2.10|2.46| Plate006
+1506  |A12 |POC COTS RAPID RA | 36.8|1.94|1.86| Plate007
+1352 |B12 |POC COTS RAPID RA | 16.2|2.00|0.41| Plate007
+1611  |C12  |POC COTS RAPID RA |  17.0|1.99|1.62| Plate007
+1642|D12  |POC COTS RAPID RA|19.1|2.03| 3.01| Plate007
+1561| E12|POC COTS RAPID RA| 26.5 | 1.96 | 2.34| Plate007
 
 
 All tested samples had DNA and can move forward for PCR.

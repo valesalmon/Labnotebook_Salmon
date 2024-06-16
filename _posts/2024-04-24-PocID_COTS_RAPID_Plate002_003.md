@@ -5,7 +5,7 @@ date: '2024-04-24'
 categories: Sanger
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
-# Pocillopora species ID COTS POC RAPID Plate002 and Plate003
+# gDNA extractions for Pocillopora species ID COTS POC RAPID Plate002 and Plate003
 
 ## Equipment and Reagents
 
@@ -79,7 +79,7 @@ Once all steps were complete to this point for both Plate 002 and Plate 003, all
 Used Lane lab nanodrop and kit elution buffer as blank to quantify the first column of DNA on the plate. Used 1.5µl of sample 
 
 Sample ID |  Well |Project |  ng/µl | A260/280 | A260/230| gDNA Plate|
----|---|---| ---|---|---|---|---|---|
+---|---|---| ---|---|---|---|
 590 S4 T5  |A1 |POC COTS RAPID RA | 17.9|2.07|1.90| Plate003
 3018 S6 T1 |B1 |POC COTS RAPID RA | 18.8|2.00|1.85| Plate003
 3015 S6 T1 |C1 |POC COTS RAPID RA |  7.8|2.31|0.81| Plate003
