@@ -18,10 +18,10 @@ avatar: "/Samus_Lab_Notebook/images/profilePic_Samus.jpg"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ssamus1@my.hpu.edu
+  email: vsalgadomontanez1@my.hpu.edu
   facebook:
   flickr:
-  github: SophiSamus1
+  github: valesalmon
   instagram:
   linkedin:
   pinterest:
@@ -41,13 +41,13 @@ google_analytics: UA-84132736-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://sophisamus1.github.io"
+url: "https://valesalmon.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Samus_Lab_Notebook"
+baseurl: "/Labnotebook_Salmon"
 
 #
 # !! You don't need to change any of the configuration flags below !!
